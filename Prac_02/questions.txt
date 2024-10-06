@@ -1,0 +1,28 @@
+Quick Questions
+1.Write two variable names that would be valid and well-named.
+Answer: tax_rate, inflation_rate
+
+2.Write two variable names that would be valid but not well-named.
+Answer: msg_time, ftx25
+
+3.Write two variable names that would not be valid.
+Answer: -pay_bill, @name
+
+4.What is the naming convention for variables in Python?
+Answer: It is lower case letters separating the words using underscore(_), tax_rate
+
+5.What is a constant? Give an example of when you would use one.
+Answer: A constant is a value that we will use throughout the application without changing it at all. It's like the magic numbers of Python. Like if we need to use PI value again and again we can declare a constant variable of PI and use the variable where ever we need to.
+
+6.What is the naming convention for constants?
+Answer: All should be with upper case letters. PI = 3.1416
+
+Logic Exercise:
+To get a pair of the same color socks it would take us at least 2 socks. If we get a black sock in the first hand then there is still a chance of getting a black sock again the second time.
+
+
+Reflection:
+
+1. My career goal is to run my software farm. 5 years from now I want to see myself as a full-stack developer and want to teach kids programming in a school or a university.
+2. While working as a software engineer back home I figured out that I am weak in algorithms and data structures. This course is already helping me to develop my algorithmic skills by writing pseudocode and solving problems which will eventually help me to get good at algorithms and solving problems.
+3. I have started solving problems in the LeetCode to get good at programming. I have tried it before, but I was never consistent. But if this time I can maintain my consistency then I would ask for help or discuss certain problems and algorithms with my classmates and teachers. It will eventually help me to become a good programmer and help me to become more of a team player which is extremely important to lead.

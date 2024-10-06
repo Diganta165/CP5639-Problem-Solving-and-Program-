@@ -1,0 +1,30 @@
+# Quick Questions
+
+    1. !=
+    2. <=
+    3. true
+    4. true
+    5. true
+    6. true
+
+
+# Patterns
+
+    1. if, elif, else
+    2. if, else
+    3. if, if, if,...
+    4. if, elif, else
+    5. if, else
+    6. if, elif, else
+    7. if, elif, no else
+
+# Logic Exercise
+ Alice => Oldest
+ Bill => Youngest
+ Alice is the oldest, Carl is Middle and Bill is the Youngest
+
+
+# Reflection
+1. I have done well in the problem-solving and I should keep doing it.
+2. Nothing that I can think of. Maybe thinking too much complex while solving a simple problem. This is what I need to stop doing.
+3. Maybe I can try using the VsCode instead of PyCharm. And also maybe I should learn more about the culture of my classmates.
