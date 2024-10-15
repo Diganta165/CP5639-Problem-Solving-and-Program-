@@ -1,0 +1,35 @@
+
+Quick Questions:
+
+1. ctrl + /
+2. for loop and while loop
+3. It is a special value we use to signal the end of the code.
+4. It is not following the PEP-8 standard naming convention. It is written in camel case but for python the name Should be like nothing_wrong
+5. The augmented Assignment Operators are +=, -=, *=, /=, %=
+
+Range:
+a) Loop Outputs:
+    1. 0 1 2 3 4 5
+    2. 33 34 35 36 37 38
+    3. 17 16 15 14 13 12
+    4. 1 0 1 0 1 0 1 0 1 0
+    5. 100>64>36>16>4>
+
+b) Range Values:
+    1. range(0, 6)
+    2. range(1, 14, 4)
+    3. range(3, 0, -1)
+    4. range(7, -6, -3)
+
+Patterns:
+1. indefinite (while loops)
+2. definite (for loops)
+3. definite (for loops)
+4. definite (for loops)
+5. definite (for loops)
+
+Logic Exercise:
+    I need to remove at least 4 marbles  from the box to definitely determine the contents of all three boxes.
+
+
+
