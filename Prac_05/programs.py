@@ -72,8 +72,57 @@ display price
 
 """
 
+# coffee = input("Coffee: ").lower()
+# size = input("Size: ").lower()
+#
+# if size == "small":
+#     price = 3
+# elif size == "medium":
+#     price = 4
+# else:
+#     price = 5
+#
+# if coffee != "black":
+#     price += 1
+#
+#
+# print("Cost: ", price)
+
+# 4. Coffee orders with error checking
+"""
+get coffee
+
+while coffee != "black" and coffee != "white"
+    coffee = input("Coffee: ").lower()
+
+get size
+
+while  size != "small" and size != "medium" and size != "big"
+    size = input("Size: ").lower()
+
+if size == "small"
+    price = 3
+elif size == "medium"
+    price = 4
+else
+    price = 5
+
+if coffee != "black"
+    price += 1
+
+
+display price
+"""
+
 coffee = input("Coffee: ").lower()
+
+while coffee != "black" and coffee != "white":
+    coffee = input("Coffee: ").lower()
+
 size = input("Size: ").lower()
+
+while  size != "small" and size != "medium" and size != "big":
+    size = input("Size: ").lower()
 
 if size == "small":
     price = 3
